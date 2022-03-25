@@ -18,6 +18,6 @@
         }
     ],
     "require": {
-        "bosun/composer_new-lib":"2.0"
+        "bosun/composer_new-lib":"bug-fix"
     }
 }
