@@ -1,5 +1,5 @@
 <?php
-namespace bo\composert;
+namespace myPackageB;
 class master1{
 	
 	public static function test(){

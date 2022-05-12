@@ -1,8 +1,8 @@
 {
-    "name": "bo/composert",
+    "name": "my_name/my_package_name_b",
     "autoload": {
         "psr-4": {
-            "Bo\\ComposerT\\": "src/"
+            "myPackageB": "src/"
         }
     },
     "authors": [
