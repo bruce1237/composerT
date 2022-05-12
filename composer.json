@@ -1,5 +1,5 @@
 {
-    "name": "bo/composer-t",
+    "name": "bo/composert",
     "autoload": {
         "psr-4": {
             "Bo\\ComposerT\\": "src/"
