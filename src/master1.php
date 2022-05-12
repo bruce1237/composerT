@@ -1,5 +1,5 @@
 <?php
-namespace bo\composer-t;
+namespace bo\composert;
 class master{
 	
 	public static function test(){
